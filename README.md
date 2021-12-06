@@ -1,5 +1,5 @@
 # ATP Analysis
-Goal: To predct results in tennis matches
+Goal: To predict results in tennis matches
 
 Evaluation metric: Accuracy
 
